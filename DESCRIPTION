@@ -1,7 +1,7 @@
 Package: RMPSH
 Type: Package
 Title: Recursive Modified Pattern Search on Hyper-Rectangle
-Version: 1.1.0
+Version: 1.1.1
 Authors@R: c(
       person("Priyam","Das", ,"pdas@ncsu.edu" , role = c("cre", "aut")),
       person("Debsurya","De", ,"debsurya001@gmail.com", role = "aut")
@@ -17,8 +17,8 @@ Encoding: UTF-8
 LazyData: true
 LinkingTo: Rcpp
 RoxygenNote: 7.1.0
-Packaged: 2020-06-22 10:14:17 UTC; Debsurya
+Packaged: 2020-06-25 21:57:13 UTC; Debsurya
 Author: Priyam Das [cre, aut],
   Debsurya De [aut]
 Repository: CRAN
-Date/Publication: 2020-06-25 16:00:09 UTC
+Date/Publication: 2020-06-26 14:20:03 UTC
